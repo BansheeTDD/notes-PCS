@@ -23,7 +23,7 @@
     </div>
 
     <div v-else-if="isEditing" class="bg-white p-6 rounded-lg shadow-md animate-fade-in">
-      <h1 class="text-2xl font-bold text-gray-800 mb-4">Редактировать заметку</h1>
+      <h1 class="text-2xl font-bold text-gray-800 mb-4">Изменим?</h1>
 
       <input
         v-model="editTitle"

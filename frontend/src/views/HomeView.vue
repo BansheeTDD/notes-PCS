@@ -1,6 +1,6 @@
 <template>
   <div class="container mx-auto px-4 py-6 max-w-3xl">
-    <h1 class="text-2xl font-bold text-gray-800 mb-6">Твои, мои, Наши заметки</h1>
+    <h1 class="text-2xl font-bold text-gray-800 mb-6">Твои, Мои, Наши заметки</h1>
 
     <NoteForm @save="addNote" />
 

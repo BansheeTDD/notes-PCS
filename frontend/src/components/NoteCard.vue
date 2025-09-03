@@ -7,7 +7,7 @@
         @click="$emit('edit')"
         class="text-blue-500 hover:text-blue-700 text-sm font-medium"
       >
-        Редактировать
+        Открыть
       </button>
       <button
         @click="$emit('delete', note.id)"
